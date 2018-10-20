@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 
 import rename_this_desktop
